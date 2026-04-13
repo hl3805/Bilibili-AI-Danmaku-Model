@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "D:\Claude_Code\bilibili-ai-tag-analysis\src\spiders\bilibili_crawler_sequential.py", line 480, in <module>
+    asyncio.run(main())
+  File "C:\Users\z8360\miniconda3\envs\bili\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Users\z8360\miniconda3\envs\bili\lib\asyncio\base_events.py", line 647, in run_until_complete
+    return future.result()
+  File "D:\Claude_Code\bilibili-ai-tag-analysis\src\spiders\bilibili_crawler_sequential.py", line 474, in main
+    async with SequentialBilibiliCrawler() as crawler:
+AttributeError: __aenter__
+✓ 已加载现有数据: 753 个视频
+
+[错误] __aenter__

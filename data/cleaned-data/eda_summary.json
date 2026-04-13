@@ -1,0 +1,1845 @@
+{
+  "total_videos": 6155,
+  "view_bins": {
+    "< 5万": {
+      "count": 0,
+      "pct": 0.0
+    },
+    "5万-20万": {
+      "count": 2350,
+      "pct": 38.18
+    },
+    "20万-100万": {
+      "count": 2808,
+      "pct": 45.62
+    },
+    "> 100万": {
+      "count": 997,
+      "pct": 16.2
+    }
+  },
+  "no_tags_count": 20,
+  "top_30_tags": [
+    [
+      "人工智能",
+      1526
+    ],
+    [
+      "AI",
+      1369
+    ],
+    [
+      "科技",
+      675
+    ],
+    [
+      "科技猎手",
+      438
+    ],
+    [
+      "搞笑",
+      422
+    ],
+    [
+      "科普",
+      352
+    ],
+    [
+      "黑科技",
+      316
+    ],
+    [
+      "生活记录",
+      301
+    ],
+    [
+      "机器学习",
+      290
+    ],
+    [
+      "深度学习",
+      275
+    ],
+    [
+      "学习",
+      266
+    ],
+    [
+      "编程",
+      243
+    ],
+    [
+      "必剪创作",
+      228
+    ],
+    [
+      "大模型",
+      208
+    ],
+    [
+      "机器人",
+      207
+    ],
+    [
+      "失业",
+      195
+    ],
+    [
+      "数码",
+      194
+    ],
+    [
+      "焦虑",
+      178
+    ],
+    [
+      "手机",
+      173
+    ],
+    [
+      "科学",
+      172
+    ],
+    [
+      "工作",
+      167
+    ],
+    [
+      "计算机",
+      153
+    ],
+    [
+      "万物研究所",
+      152
+    ],
+    [
+      "原创",
+      152
+    ],
+    [
+      "记录",
+      152
+    ],
+    [
+      "教程",
+      148
+    ],
+    [
+      "高能",
+      144
+    ],
+    [
+      "知识",
+      136
+    ],
+    [
+      "职场",
+      134
+    ],
+    [
+      "科幻",
+      127
+    ]
+  ],
+  "others_video_count": 1732,
+  "cooccurrence": [
+    {
+      "tag": "人工智能",
+      "count": 1526,
+      "high_co": [
+        "AI(52.9%)"
+      ],
+      "mid_co": [],
+      "low_co": [
+        "深度学习(16.2%)",
+        "机器学习(16.1%)",
+        "科技(12.5%)",
+        "机器人(10.7%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV17G4y1U7jh",
+          "stat_view": 20979649,
+          "stat_danmaku": 329498,
+          "pubdate": "2023-02-05 10:13:15"
+        },
+        {
+          "bvid": "BV1RCteeUEAx",
+          "stat_view": 15461445,
+          "stat_danmaku": 34391,
+          "pubdate": "2024-09-17 17:30:36"
+        },
+        {
+          "bvid": "BV1duFrztESM",
+          "stat_view": 11494462,
+          "stat_danmaku": 58088,
+          "pubdate": "2026-02-07 12:00:00"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV17G4y1U7jh",
+          "stat_view": 20979649,
+          "stat_danmaku": 329498,
+          "pubdate": "2023-02-05 10:13:15"
+        },
+        {
+          "bvid": "BV1g9W7zCE8a",
+          "stat_view": 1590794,
+          "stat_danmaku": 131011,
+          "pubdate": "2025-10-17 20:50:52"
+        },
+        {
+          "bvid": "BV18sGgzFEz1",
+          "stat_view": 3998589,
+          "stat_danmaku": 97702,
+          "pubdate": "2025-07-10 14:28:41"
+        }
+      ]
+    },
+    {
+      "tag": "AI",
+      "count": 1369,
+      "high_co": [
+        "人工智能(59.0%)"
+      ],
+      "mid_co": [],
+      "low_co": [
+        "科技(11.6%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV11mFLziEyP",
+          "stat_view": 18364497,
+          "stat_danmaku": 20461,
+          "pubdate": "2026-02-03 20:31:04"
+        },
+        {
+          "bvid": "BV1pdeXzsEY5",
+          "stat_view": 17953478,
+          "stat_danmaku": 22661,
+          "pubdate": "2025-08-29 10:15:45"
+        },
+        {
+          "bvid": "BV1ZUD8Y7E6P",
+          "stat_view": 15937472,
+          "stat_danmaku": 3180,
+          "pubdate": "2024-11-05 19:28:09"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1QMSjBREzr",
+          "stat_view": 10991510,
+          "stat_danmaku": 209781,
+          "pubdate": "2025-11-28 18:59:00"
+        },
+        {
+          "bvid": "BV1g9W7zCE8a",
+          "stat_view": 1590794,
+          "stat_danmaku": 131011,
+          "pubdate": "2025-10-17 20:50:52"
+        },
+        {
+          "bvid": "BV164411b7dx",
+          "stat_view": 5141177,
+          "stat_danmaku": 61711,
+          "pubdate": "2019-04-28 18:08:23"
+        }
+      ]
+    },
+    {
+      "tag": "科技",
+      "count": 675,
+      "high_co": [],
+      "mid_co": [
+        "人工智能(28.3%)",
+        "AI(23.6%)"
+      ],
+      "low_co": [
+        "数码(19.3%)",
+        "科普(12.7%)",
+        "黑科技(12.0%)",
+        "科技猎手(11.9%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1QjhWzmEcC",
+          "stat_view": 20372779,
+          "stat_danmaku": 4054,
+          "pubdate": "2025-08-02 17:00:00"
+        },
+        {
+          "bvid": "BV1RCPKekEm2",
+          "stat_view": 8593143,
+          "stat_danmaku": 4241,
+          "pubdate": "2025-02-22 19:41:54"
+        },
+        {
+          "bvid": "BV1bjtoeiE7N",
+          "stat_view": 8000623,
+          "stat_danmaku": 14547,
+          "pubdate": "2024-09-20 12:58:20"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1u1HHzmEu1",
+          "stat_view": 1427926,
+          "stat_danmaku": 24275,
+          "pubdate": "2025-10-01 15:57:20"
+        },
+        {
+          "bvid": "BV11s44zNEBa",
+          "stat_view": 668183,
+          "stat_danmaku": 21636,
+          "pubdate": "2025-10-11 16:30:00"
+        },
+        {
+          "bvid": "BV1WST4zJEXA",
+          "stat_view": 1418494,
+          "stat_danmaku": 16036,
+          "pubdate": "2025-06-06 10:00:00"
+        }
+      ]
+    },
+    {
+      "tag": "科技猎手",
+      "count": 438,
+      "high_co": [],
+      "mid_co": [
+        "人工智能(23.3%)"
+      ],
+      "low_co": [
+        "AI(19.9%)",
+        "科技(18.3%)",
+        "科技猎手2025·1.0计划(16.9%)",
+        "数码(16.7%)",
+        "科技猎手2024新品出击(16.2%)",
+        "手机(16.0%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV17F411T7Ao",
+          "stat_view": 26336329,
+          "stat_danmaku": 764698,
+          "pubdate": "2022-04-27 09:00:00"
+        },
+        {
+          "bvid": "BV1JDMQzUEwy",
+          "stat_view": 23746986,
+          "stat_danmaku": 16124,
+          "pubdate": "2025-07-12 18:00:00"
+        },
+        {
+          "bvid": "BV1oH4y1F7P9",
+          "stat_view": 18589569,
+          "stat_danmaku": 27104,
+          "pubdate": "2024-07-06 20:05:56"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV17F411T7Ao",
+          "stat_view": 26336329,
+          "stat_danmaku": 764698,
+          "pubdate": "2022-04-27 09:00:00"
+        },
+        {
+          "bvid": "BV1n84y1i7td",
+          "stat_view": 7152341,
+          "stat_danmaku": 122100,
+          "pubdate": "2022-11-01 09:00:00"
+        },
+        {
+          "bvid": "BV119Q1BeEYx",
+          "stat_view": 3870155,
+          "stat_danmaku": 44717,
+          "pubdate": "2026-03-31 12:00:00"
+        }
+      ]
+    },
+    {
+      "tag": "搞笑",
+      "count": 422,
+      "high_co": [],
+      "mid_co": [
+        "AI(29.9%)",
+        "人工智能(24.4%)"
+      ],
+      "low_co": [
+        "娱乐(12.8%)",
+        "高能(12.1%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1pdeXzsEY5",
+          "stat_view": 17953478,
+          "stat_danmaku": 22661,
+          "pubdate": "2025-08-29 10:15:45"
+        },
+        {
+          "bvid": "BV1q9bmzXEBP",
+          "stat_view": 17787225,
+          "stat_danmaku": 67481,
+          "pubdate": "2025-07-25 11:40:33"
+        },
+        {
+          "bvid": "BV1bXAJz8EYC",
+          "stat_view": 17052968,
+          "stat_danmaku": 110571,
+          "pubdate": "2026-03-20 18:57:13"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1bXAJz8EYC",
+          "stat_view": 17052968,
+          "stat_danmaku": 110571,
+          "pubdate": "2026-03-20 18:57:13"
+        },
+        {
+          "bvid": "BV18sGgzFEz1",
+          "stat_view": 3998589,
+          "stat_danmaku": 97702,
+          "pubdate": "2025-07-10 14:28:41"
+        },
+        {
+          "bvid": "BV1q9bmzXEBP",
+          "stat_view": 17787225,
+          "stat_danmaku": 67481,
+          "pubdate": "2025-07-25 11:40:33"
+        }
+      ]
+    },
+    {
+      "tag": "科普",
+      "count": 352,
+      "high_co": [],
+      "mid_co": [
+        "科学(30.4%)",
+        "科技(24.4%)",
+        "人工智能(22.7%)"
+      ],
+      "low_co": [
+        "AI(19.0%)",
+        "知识(13.9%)",
+        "万物研究所(11.1%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1z4411Y7tX",
+          "stat_view": 38907780,
+          "stat_danmaku": 734364,
+          "pubdate": "2019-05-10 16:21:47"
+        },
+        {
+          "bvid": "BV1QjhWzmEcC",
+          "stat_view": 20372779,
+          "stat_danmaku": 4054,
+          "pubdate": "2025-08-02 17:00:00"
+        },
+        {
+          "bvid": "BV1o94yzMEFN",
+          "stat_view": 8924867,
+          "stat_danmaku": 10651,
+          "pubdate": "2025-10-17 17:30:00"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1z4411Y7tX",
+          "stat_view": 38907780,
+          "stat_danmaku": 734364,
+          "pubdate": "2019-05-10 16:21:47"
+        },
+        {
+          "bvid": "BV1ib411t7YR",
+          "stat_view": 2731492,
+          "stat_danmaku": 24125,
+          "pubdate": "2019-02-27 18:57:13"
+        },
+        {
+          "bvid": "BV1964y1b7LZ",
+          "stat_view": 3340918,
+          "stat_danmaku": 23805,
+          "pubdate": "2021-09-17 20:05:13"
+        }
+      ]
+    },
+    {
+      "tag": "黑科技",
+      "count": 316,
+      "high_co": [],
+      "mid_co": [
+        "人工智能(25.9%)",
+        "科技(25.6%)"
+      ],
+      "low_co": [
+        "AI(14.2%)",
+        "机器人(12.7%)",
+        "科技猎手(12.3%)",
+        "科普(10.4%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1Es4y157mF",
+          "stat_view": 9689285,
+          "stat_danmaku": 4510,
+          "pubdate": "2023-03-09 16:40:00"
+        },
+        {
+          "bvid": "BV1mw4m1e7y3",
+          "stat_view": 7645897,
+          "stat_danmaku": 12333,
+          "pubdate": "2024-06-27 17:00:00"
+        },
+        {
+          "bvid": "BV1LYwFzmECF",
+          "stat_view": 5481817,
+          "stat_danmaku": 2162,
+          "pubdate": "2026-03-11 21:42:14"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1mw4m1e7y3",
+          "stat_view": 7645897,
+          "stat_danmaku": 12333,
+          "pubdate": "2024-06-27 17:00:00"
+        },
+        {
+          "bvid": "BV1JyQwYGECe",
+          "stat_view": 2373018,
+          "stat_danmaku": 11169,
+          "pubdate": "2025-03-13 20:00:00"
+        },
+        {
+          "bvid": "BV1JYRjYoEzE",
+          "stat_view": 4834064,
+          "stat_danmaku": 10645,
+          "pubdate": "2025-03-11 08:00:00"
+        }
+      ]
+    },
+    {
+      "tag": "生活记录",
+      "count": 301,
+      "high_co": [],
+      "mid_co": [
+        "记录(26.6%)",
+        "工作(20.9%)"
+      ],
+      "low_co": [
+        "失业(17.6%)",
+        "Vlog(10.3%)",
+        "找工作(10.3%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV11QALzCEQ2",
+          "stat_view": 6753188,
+          "stat_danmaku": 13308,
+          "pubdate": "2026-03-20 17:30:00"
+        },
+        {
+          "bvid": "BV1S1A7zxEm4",
+          "stat_view": 6059216,
+          "stat_danmaku": 16238,
+          "pubdate": "2026-03-22 18:30:00"
+        },
+        {
+          "bvid": "BV1RA4iz3EjK",
+          "stat_view": 5758801,
+          "stat_danmaku": 156,
+          "pubdate": "2025-10-15 19:29:49"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1SaGGzAEbK",
+          "stat_view": 3313720,
+          "stat_danmaku": 42975,
+          "pubdate": "2025-07-10 17:39:28"
+        },
+        {
+          "bvid": "BV1nXgVzDErP",
+          "stat_view": 4333525,
+          "stat_danmaku": 22283,
+          "pubdate": "2025-07-21 17:23:54"
+        },
+        {
+          "bvid": "BV1S1A7zxEm4",
+          "stat_view": 6059216,
+          "stat_danmaku": 16238,
+          "pubdate": "2026-03-22 18:30:00"
+        }
+      ]
+    },
+    {
+      "tag": "机器学习",
+      "count": 290,
+      "high_co": [
+        "人工智能(84.8%)",
+        "深度学习(69.0%)"
+      ],
+      "mid_co": [
+        "AI(38.3%)",
+        "神经网络(36.6%)"
+      ],
+      "low_co": [
+        "编程(18.6%)",
+        "计算机视觉(17.9%)",
+        "计算机技术(16.9%)",
+        "大模型(15.5%)",
+        "计算机(13.1%)",
+        "Python(13.1%)",
+        "学习(12.1%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1j6qzYzE4h",
+          "stat_view": 10433738,
+          "stat_danmaku": 594,
+          "pubdate": "2024-12-13 13:29:47"
+        },
+        {
+          "bvid": "BV1hE411t7RN",
+          "stat_view": 7973824,
+          "stat_danmaku": 63503,
+          "pubdate": "2019-11-02 18:13:49"
+        },
+        {
+          "bvid": "BV13D4y1Q7RS",
+          "stat_view": 7320357,
+          "stat_danmaku": 42375,
+          "pubdate": "2020-06-17 18:02:23"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1g9W7zCE8a",
+          "stat_view": 1590794,
+          "stat_danmaku": 131011,
+          "pubdate": "2025-10-17 20:50:52"
+        },
+        {
+          "bvid": "BV1hE411t7RN",
+          "stat_view": 7973824,
+          "stat_danmaku": 63503,
+          "pubdate": "2019-11-02 18:13:49"
+        },
+        {
+          "bvid": "BV164411b7dx",
+          "stat_view": 5141177,
+          "stat_danmaku": 61711,
+          "pubdate": "2019-04-28 18:08:23"
+        }
+      ]
+    },
+    {
+      "tag": "深度学习",
+      "count": 275,
+      "high_co": [
+        "人工智能(89.8%)",
+        "机器学习(72.7%)"
+      ],
+      "mid_co": [
+        "AI(39.6%)",
+        "神经网络(37.1%)",
+        "计算机视觉(22.9%)"
+      ],
+      "low_co": [
+        "计算机技术(18.2%)",
+        "编程(15.6%)",
+        "大模型(15.6%)",
+        "Python(13.1%)",
+        "计算机(12.4%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1j6qzYzE4h",
+          "stat_view": 10433738,
+          "stat_danmaku": 594,
+          "pubdate": "2024-12-13 13:29:47"
+        },
+        {
+          "bvid": "BV1hE411t7RN",
+          "stat_view": 7973824,
+          "stat_danmaku": 63503,
+          "pubdate": "2019-11-02 18:13:49"
+        },
+        {
+          "bvid": "BV164411b7dx",
+          "stat_view": 5141177,
+          "stat_danmaku": 61711,
+          "pubdate": "2019-04-28 18:08:23"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1g9W7zCE8a",
+          "stat_view": 1590794,
+          "stat_danmaku": 131011,
+          "pubdate": "2025-10-17 20:50:52"
+        },
+        {
+          "bvid": "BV1hE411t7RN",
+          "stat_view": 7973824,
+          "stat_danmaku": 63503,
+          "pubdate": "2019-11-02 18:13:49"
+        },
+        {
+          "bvid": "BV164411b7dx",
+          "stat_view": 5141177,
+          "stat_danmaku": 61711,
+          "pubdate": "2019-04-28 18:08:23"
+        }
+      ]
+    },
+    {
+      "tag": "学习",
+      "count": 266,
+      "high_co": [],
+      "mid_co": [
+        "人工智能(36.1%)",
+        "AI(30.1%)"
+      ],
+      "low_co": [
+        "机器学习(13.2%)",
+        "编程(12.8%)",
+        "科普(11.7%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1th411z7sn",
+          "stat_view": 23864429,
+          "stat_danmaku": 194784,
+          "pubdate": "2021-07-29 13:38:43"
+        },
+        {
+          "bvid": "BV1Mb411e7re",
+          "stat_view": 20618209,
+          "stat_danmaku": 265226,
+          "pubdate": "2019-03-11 01:27:11"
+        },
+        {
+          "bvid": "BV1QjhWzmEcC",
+          "stat_view": 20372779,
+          "stat_danmaku": 4054,
+          "pubdate": "2025-08-02 17:00:00"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1Mb411e7re",
+          "stat_view": 20618209,
+          "stat_danmaku": 265226,
+          "pubdate": "2019-03-11 01:27:11"
+        },
+        {
+          "bvid": "BV1th411z7sn",
+          "stat_view": 23864429,
+          "stat_danmaku": 194784,
+          "pubdate": "2021-07-29 13:38:43"
+        },
+        {
+          "bvid": "BV1F7411a7iV",
+          "stat_view": 11240103,
+          "stat_danmaku": 182790,
+          "pubdate": "2020-02-07 01:08:46"
+        }
+      ]
+    },
+    {
+      "tag": "编程",
+      "count": 243,
+      "high_co": [
+        "人工智能(53.9%)"
+      ],
+      "mid_co": [
+        "AI(40.3%)",
+        "计算机(32.1%)",
+        "程序员(25.9%)",
+        "机器学习(22.2%)"
+      ],
+      "low_co": [
+        "深度学习(17.7%)",
+        "Python(15.6%)",
+        "科技(15.2%)",
+        "学习(14.0%)",
+        "教程(13.6%)",
+        "科技猎手(13.2%)",
+        "大模型(11.5%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1et411b73Z",
+          "stat_view": 45480857,
+          "stat_danmaku": 711518,
+          "pubdate": "2019-01-24 15:06:36"
+        },
+        {
+          "bvid": "BV1wD4y1o7AS",
+          "stat_view": 35222619,
+          "stat_danmaku": 248261,
+          "pubdate": "2020-09-07 19:54:19"
+        },
+        {
+          "bvid": "BV1th411z7sn",
+          "stat_view": 23864429,
+          "stat_danmaku": 194784,
+          "pubdate": "2021-07-29 13:38:43"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1et411b73Z",
+          "stat_view": 45480857,
+          "stat_danmaku": 711518,
+          "pubdate": "2019-01-24 15:06:36"
+        },
+        {
+          "bvid": "BV17G4y1U7jh",
+          "stat_view": 20979649,
+          "stat_danmaku": 329498,
+          "pubdate": "2023-02-05 10:13:15"
+        },
+        {
+          "bvid": "BV1xs411Q799",
+          "stat_view": 17896521,
+          "stat_danmaku": 307692,
+          "pubdate": "2016-03-09 01:55:37"
+        }
+      ]
+    },
+    {
+      "tag": "必剪创作",
+      "count": 228,
+      "high_co": [],
+      "mid_co": [],
+      "low_co": [
+        "人工智能(14.5%)",
+        "AI(14.5%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1pv421r7Yu",
+          "stat_view": 6196907,
+          "stat_danmaku": 1968,
+          "pubdate": "2024-02-24 17:36:05"
+        },
+        {
+          "bvid": "BV1eu4y1i7St",
+          "stat_view": 5244641,
+          "stat_danmaku": 388,
+          "pubdate": "2023-08-20 22:03:14"
+        },
+        {
+          "bvid": "BV1u4pCe9EXR",
+          "stat_view": 4079141,
+          "stat_danmaku": 1103,
+          "pubdate": "2024-08-19 11:08:11"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV18sGgzFEz1",
+          "stat_view": 3998589,
+          "stat_danmaku": 97702,
+          "pubdate": "2025-07-10 14:28:41"
+        },
+        {
+          "bvid": "BV1e24y1u7My",
+          "stat_view": 3706489,
+          "stat_danmaku": 5507,
+          "pubdate": "2023-03-16 12:08:35"
+        },
+        {
+          "bvid": "BV1TqzSBUEmL",
+          "stat_view": 1789314,
+          "stat_danmaku": 4809,
+          "pubdate": "2026-01-25 13:37:32"
+        }
+      ]
+    },
+    {
+      "tag": "大模型",
+      "count": 208,
+      "high_co": [
+        "人工智能(72.6%)",
+        "AI(63.5%)"
+      ],
+      "mid_co": [
+        "机器学习(21.6%)",
+        "深度学习(20.7%)"
+      ],
+      "low_co": [
+        "LLM(18.3%)",
+        "Agent(13.9%)",
+        "编程(13.5%)",
+        "科技(12.5%)",
+        "神经网络(11.1%)",
+        "科技猎手(11.1%)",
+        "ChatGPT(10.1%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1hy5YzaErV",
+          "stat_view": 4832935,
+          "stat_danmaku": 1612,
+          "pubdate": "2025-04-17 16:20:40"
+        },
+        {
+          "bvid": "BV1Rf421v7Cr",
+          "stat_view": 4235885,
+          "stat_danmaku": 346,
+          "pubdate": "2024-08-05 20:11:55"
+        },
+        {
+          "bvid": "BV1a6j1z6En9",
+          "stat_view": 3938846,
+          "stat_danmaku": 18649,
+          "pubdate": "2025-05-26 17:15:11"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1a6j1z6En9",
+          "stat_view": 3938846,
+          "stat_danmaku": 18649,
+          "pubdate": "2025-05-26 17:15:11"
+        },
+        {
+          "bvid": "BV1uNk1YxEJQ",
+          "stat_view": 3504996,
+          "stat_danmaku": 9838,
+          "pubdate": "2024-12-20 15:56:52"
+        },
+        {
+          "bvid": "BV1aL92YoEEe",
+          "stat_view": 2164317,
+          "stat_danmaku": 5511,
+          "pubdate": "2025-03-07 21:42:07"
+        }
+      ]
+    },
+    {
+      "tag": "机器人",
+      "count": 207,
+      "high_co": [
+        "人工智能(79.2%)"
+      ],
+      "mid_co": [
+        "AI(23.7%)",
+        "科技(22.2%)"
+      ],
+      "low_co": [
+        "黑科技(19.3%)",
+        "人形机器人(12.6%)",
+        "科幻(12.1%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV15niRYyEZU",
+          "stat_view": 5839548,
+          "stat_danmaku": 1890,
+          "pubdate": "2024-12-06 21:00:00"
+        },
+        {
+          "bvid": "BV1JYRjYoEzE",
+          "stat_view": 4834064,
+          "stat_danmaku": 10645,
+          "pubdate": "2025-03-11 08:00:00"
+        },
+        {
+          "bvid": "BV16RwjzqE5s",
+          "stat_view": 4776055,
+          "stat_danmaku": 1026,
+          "pubdate": "2026-03-16 20:01:57"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1Ci4y1L7ZZ",
+          "stat_view": 3337015,
+          "stat_danmaku": 59409,
+          "pubdate": "2020-11-18 17:20:37"
+        },
+        {
+          "bvid": "BV1JYRjYoEzE",
+          "stat_view": 4834064,
+          "stat_danmaku": 10645,
+          "pubdate": "2025-03-11 08:00:00"
+        },
+        {
+          "bvid": "BV1s44y1173e",
+          "stat_view": 2614264,
+          "stat_danmaku": 7274,
+          "pubdate": "2021-07-31 16:10:54"
+        }
+      ]
+    },
+    {
+      "tag": "失业",
+      "count": 195,
+      "high_co": [],
+      "mid_co": [
+        "生活记录(27.2%)",
+        "工作(26.7%)"
+      ],
+      "low_co": [
+        "找工作(19.0%)",
+        "职场(13.8%)",
+        "记录(13.8%)",
+        "裁员(12.8%)",
+        "就业(11.8%)",
+        "AI(11.3%)",
+        "随手记录我的生活碎片(11.3%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1SaGGzAEbK",
+          "stat_view": 3313720,
+          "stat_danmaku": 42975,
+          "pubdate": "2025-07-10 17:39:28"
+        },
+        {
+          "bvid": "BV1BXmmYfE6h",
+          "stat_view": 1744979,
+          "stat_danmaku": 4699,
+          "pubdate": "2024-11-11 19:24:06"
+        },
+        {
+          "bvid": "BV1iS421d7nF",
+          "stat_view": 1399172,
+          "stat_danmaku": 1808,
+          "pubdate": "2024-06-23 10:45:00"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1SaGGzAEbK",
+          "stat_view": 3313720,
+          "stat_danmaku": 42975,
+          "pubdate": "2025-07-10 17:39:28"
+        },
+        {
+          "bvid": "BV1Fj421f7Bv",
+          "stat_view": 1094102,
+          "stat_danmaku": 5713,
+          "pubdate": "2024-03-09 12:00:00"
+        },
+        {
+          "bvid": "BV1764y1A7rQ",
+          "stat_view": 863006,
+          "stat_danmaku": 5440,
+          "pubdate": "2024-01-19 10:44:27"
+        }
+      ]
+    },
+    {
+      "tag": "数码",
+      "count": 194,
+      "high_co": [
+        "科技(67.0%)"
+      ],
+      "mid_co": [
+        "科技猎手(37.6%)",
+        "手机(31.4%)"
+      ],
+      "low_co": [
+        "AI(16.0%)",
+        "黑科技(16.0%)",
+        "电脑(14.9%)",
+        "人工智能(12.9%)",
+        "评测(12.9%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1RCPKekEm2",
+          "stat_view": 8593143,
+          "stat_danmaku": 4241,
+          "pubdate": "2025-02-22 19:41:54"
+        },
+        {
+          "bvid": "BV1N1421z7Ng",
+          "stat_view": 6151168,
+          "stat_danmaku": 2094,
+          "pubdate": "2024-05-12 19:40:00"
+        },
+        {
+          "bvid": "BV1SJ4m1p7H1",
+          "stat_view": 5852636,
+          "stat_danmaku": 2799,
+          "pubdate": "2024-04-15 22:18:46"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1WST4zJEXA",
+          "stat_view": 1418494,
+          "stat_danmaku": 16036,
+          "pubdate": "2025-06-06 10:00:00"
+        },
+        {
+          "bvid": "BV1R2XZBQEio",
+          "stat_view": 2382685,
+          "stat_danmaku": 13727,
+          "pubdate": "2026-04-02 17:00:00"
+        },
+        {
+          "bvid": "BV1979NY5EXA",
+          "stat_view": 3431136,
+          "stat_danmaku": 12651,
+          "pubdate": "2025-02-28 08:00:00"
+        }
+      ]
+    },
+    {
+      "tag": "焦虑",
+      "count": 178,
+      "high_co": [],
+      "mid_co": [
+        "心理(24.7%)"
+      ],
+      "low_co": [
+        "心理学(19.1%)",
+        "情绪(14.6%)",
+        "抑郁(12.9%)",
+        "焦虑症(12.4%)",
+        "生活记录(10.7%)",
+        "内耗(10.1%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1AquczJE6F",
+          "stat_view": 2503827,
+          "stat_danmaku": 4613,
+          "pubdate": "2025-07-13 19:00:00"
+        },
+        {
+          "bvid": "BV1WK421x7B1",
+          "stat_view": 1987606,
+          "stat_danmaku": 4391,
+          "pubdate": "2024-03-09 16:30:00"
+        },
+        {
+          "bvid": "BV1kg4y1m7Ms",
+          "stat_view": 1748897,
+          "stat_danmaku": 4214,
+          "pubdate": "2024-01-16 21:30:00"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1Ki51z4Eo8",
+          "stat_view": 310731,
+          "stat_danmaku": 26351,
+          "pubdate": "2025-04-21 23:54:06"
+        },
+        {
+          "bvid": "BV1fUTRzXESL",
+          "stat_view": 597473,
+          "stat_danmaku": 7866,
+          "pubdate": "2025-06-08 21:30:27"
+        },
+        {
+          "bvid": "BV1AquczJE6F",
+          "stat_view": 2503827,
+          "stat_danmaku": 4613,
+          "pubdate": "2025-07-13 19:00:00"
+        }
+      ]
+    },
+    {
+      "tag": "手机",
+      "count": 173,
+      "high_co": [],
+      "mid_co": [
+        "科技猎手(40.5%)",
+        "科技(35.3%)",
+        "数码(35.3%)"
+      ],
+      "low_co": [
+        "黑科技(16.8%)",
+        "小米(15.0%)",
+        "评测(15.0%)",
+        "华为(13.3%)",
+        "iPhone(12.7%)",
+        "苹果(11.0%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1kPE4zgE7y",
+          "stat_view": 11522187,
+          "stat_danmaku": 27424,
+          "pubdate": "2025-05-16 17:00:00"
+        },
+        {
+          "bvid": "BV1RCPKekEm2",
+          "stat_view": 8593143,
+          "stat_danmaku": 4241,
+          "pubdate": "2025-02-22 19:41:54"
+        },
+        {
+          "bvid": "BV1nTXaBpEW2",
+          "stat_view": 6055663,
+          "stat_danmaku": 2970,
+          "pubdate": "2026-03-30 18:00:00"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1kPE4zgE7y",
+          "stat_view": 11522187,
+          "stat_danmaku": 27424,
+          "pubdate": "2025-05-16 17:00:00"
+        },
+        {
+          "bvid": "BV1WST4zJEXA",
+          "stat_view": 1418494,
+          "stat_danmaku": 16036,
+          "pubdate": "2025-06-06 10:00:00"
+        },
+        {
+          "bvid": "BV17F4m1T7M2",
+          "stat_view": 5325370,
+          "stat_danmaku": 15307,
+          "pubdate": "2024-04-11 17:00:00"
+        }
+      ]
+    },
+    {
+      "tag": "科学",
+      "count": 172,
+      "high_co": [
+        "科普(62.2%)"
+      ],
+      "mid_co": [
+        "人工智能(28.5%)",
+        "科技(22.7%)"
+      ],
+      "low_co": [
+        "AI(15.1%)",
+        "宇宙(12.2%)",
+        "黑科技(11.6%)",
+        "万物研究所(11.6%)",
+        "机器学习(11.0%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1z4411Y7tX",
+          "stat_view": 38907780,
+          "stat_danmaku": 734364,
+          "pubdate": "2019-05-10 16:21:47"
+        },
+        {
+          "bvid": "BV11yrkYME4G",
+          "stat_view": 15816675,
+          "stat_danmaku": 70308,
+          "pubdate": "2025-01-10 12:00:00"
+        },
+        {
+          "bvid": "BV15niRYyEZU",
+          "stat_view": 5839548,
+          "stat_danmaku": 1890,
+          "pubdate": "2024-12-06 21:00:00"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1z4411Y7tX",
+          "stat_view": 38907780,
+          "stat_danmaku": 734364,
+          "pubdate": "2019-05-10 16:21:47"
+        },
+        {
+          "bvid": "BV11yrkYME4G",
+          "stat_view": 15816675,
+          "stat_danmaku": 70308,
+          "pubdate": "2025-01-10 12:00:00"
+        },
+        {
+          "bvid": "BV1ib411t7YR",
+          "stat_view": 2731492,
+          "stat_danmaku": 24125,
+          "pubdate": "2019-02-27 18:57:13"
+        }
+      ]
+    },
+    {
+      "tag": "工作",
+      "count": 167,
+      "high_co": [],
+      "mid_co": [
+        "职场(38.3%)",
+        "生活记录(37.7%)",
+        "失业(31.1%)"
+      ],
+      "low_co": [
+        "找工作(19.8%)",
+        "就业(19.2%)",
+        "记录(18.6%)",
+        "社会(13.2%)",
+        "上班族(13.2%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV12T4y1F7LT",
+          "stat_view": 11967138,
+          "stat_danmaku": 43476,
+          "pubdate": "2020-11-08 18:46:40"
+        },
+        {
+          "bvid": "BV1gD55z1Ehf",
+          "stat_view": 5322653,
+          "stat_danmaku": 721,
+          "pubdate": "2025-05-09 19:17:58"
+        },
+        {
+          "bvid": "BV12SmEBmECm",
+          "stat_view": 1910081,
+          "stat_danmaku": 1227,
+          "pubdate": "2025-12-12 16:21:26"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV12T4y1F7LT",
+          "stat_view": 11967138,
+          "stat_danmaku": 43476,
+          "pubdate": "2020-11-08 18:46:40"
+        },
+        {
+          "bvid": "BV1xk4y1D7V1",
+          "stat_view": 697192,
+          "stat_danmaku": 7695,
+          "pubdate": "2024-01-17 21:32:00"
+        },
+        {
+          "bvid": "BV147Muz3ERZ",
+          "stat_view": 1367095,
+          "stat_danmaku": 6399,
+          "pubdate": "2025-06-13 18:25:57"
+        }
+      ]
+    },
+    {
+      "tag": "计算机",
+      "count": 153,
+      "high_co": [
+        "人工智能(58.2%)",
+        "编程(51.0%)"
+      ],
+      "mid_co": [
+        "AI(41.2%)",
+        "程序员(32.0%)",
+        "机器学习(24.8%)",
+        "科技(23.5%)",
+        "深度学习(22.2%)"
+      ],
+      "low_co": [
+        "Python(19.0%)",
+        "科技猎手(16.3%)",
+        "知识(15.0%)",
+        "大模型(13.1%)",
+        "互联网(13.1%)",
+        "IT(11.1%)",
+        "教程(10.5%)",
+        "计算机技术(10.5%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1wD4y1o7AS",
+          "stat_view": 35222619,
+          "stat_danmaku": 248261,
+          "pubdate": "2020-09-07 19:54:19"
+        },
+        {
+          "bvid": "BV1YE411D7nH",
+          "stat_view": 21113730,
+          "stat_danmaku": 220573,
+          "pubdate": "2019-10-05 14:10:09"
+        },
+        {
+          "bvid": "BV1dr4y1n7vA",
+          "stat_view": 17733354,
+          "stat_danmaku": 162209,
+          "pubdate": "2022-04-15 21:36:24"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1wD4y1o7AS",
+          "stat_view": 35222619,
+          "stat_danmaku": 248261,
+          "pubdate": "2020-09-07 19:54:19"
+        },
+        {
+          "bvid": "BV1YE411D7nH",
+          "stat_view": 21113730,
+          "stat_danmaku": 220573,
+          "pubdate": "2019-10-05 14:10:09"
+        },
+        {
+          "bvid": "BV1dr4y1n7vA",
+          "stat_view": 17733354,
+          "stat_danmaku": 162209,
+          "pubdate": "2022-04-15 21:36:24"
+        }
+      ]
+    },
+    {
+      "tag": "万物研究所",
+      "count": 152,
+      "high_co": [],
+      "mid_co": [
+        "人工智能(27.0%)",
+        "科普(25.7%)",
+        "AI(22.4%)"
+      ],
+      "low_co": [
+        "科技(14.5%)",
+        "科学(13.2%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1fXnXzJETg",
+          "stat_view": 9401935,
+          "stat_danmaku": 36906,
+          "pubdate": "2025-09-28 10:29:46"
+        },
+        {
+          "bvid": "BV1o94yzMEFN",
+          "stat_view": 8924867,
+          "stat_danmaku": 10651,
+          "pubdate": "2025-10-17 17:30:00"
+        },
+        {
+          "bvid": "BV18yXbB8EJw",
+          "stat_view": 6523883,
+          "stat_danmaku": 21249,
+          "pubdate": "2026-03-27 11:41:05"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1fXnXzJETg",
+          "stat_view": 9401935,
+          "stat_danmaku": 36906,
+          "pubdate": "2025-09-28 10:29:46"
+        },
+        {
+          "bvid": "BV1wZXKBpEv9",
+          "stat_view": 4317340,
+          "stat_danmaku": 21327,
+          "pubdate": "2026-03-28 09:00:00"
+        },
+        {
+          "bvid": "BV18yXbB8EJw",
+          "stat_view": 6523883,
+          "stat_danmaku": 21249,
+          "pubdate": "2026-03-27 11:41:05"
+        }
+      ]
+    },
+    {
+      "tag": "原创",
+      "count": 152,
+      "high_co": [],
+      "mid_co": [
+        "AI(25.7%)",
+        "人工智能(21.1%)"
+      ],
+      "low_co": [
+        "短片(16.4%)",
+        "搞笑(13.8%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV11mFLziEyP",
+          "stat_view": 18364497,
+          "stat_danmaku": 20461,
+          "pubdate": "2026-02-03 20:31:04"
+        },
+        {
+          "bvid": "BV12T4y1F7LT",
+          "stat_view": 11967138,
+          "stat_danmaku": 43476,
+          "pubdate": "2020-11-08 18:46:40"
+        },
+        {
+          "bvid": "BV1yxr9B8EjY",
+          "stat_view": 10200883,
+          "stat_danmaku": 2694,
+          "pubdate": "2026-01-18 02:46:40"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV12T4y1F7LT",
+          "stat_view": 11967138,
+          "stat_danmaku": 43476,
+          "pubdate": "2020-11-08 18:46:40"
+        },
+        {
+          "bvid": "BV1YheXzrEAw",
+          "stat_view": 3495337,
+          "stat_danmaku": 39363,
+          "pubdate": "2025-08-28 12:57:48"
+        },
+        {
+          "bvid": "BV11mFLziEyP",
+          "stat_view": 18364497,
+          "stat_danmaku": 20461,
+          "pubdate": "2026-02-03 20:31:04"
+        }
+      ]
+    },
+    {
+      "tag": "记录",
+      "count": 152,
+      "high_co": [
+        "生活记录(52.6%)"
+      ],
+      "mid_co": [
+        "工作(20.4%)"
+      ],
+      "low_co": [
+        "失业(17.8%)",
+        "人工智能(15.8%)",
+        "高能(14.5%)",
+        "AI(11.2%)",
+        "科技(10.5%)",
+        "随手记录我的生活碎片(10.5%)",
+        "找工作(10.5%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1AYAxzqEds",
+          "stat_view": 5483251,
+          "stat_danmaku": 6856,
+          "pubdate": "2026-03-21 12:05:00"
+        },
+        {
+          "bvid": "BV1bYAnzwEYU",
+          "stat_view": 3080565,
+          "stat_danmaku": 4570,
+          "pubdate": "2026-03-20 16:31:10"
+        },
+        {
+          "bvid": "BV1X4411u7TT",
+          "stat_view": 3074898,
+          "stat_danmaku": 7668,
+          "pubdate": "2019-06-23 07:06:13"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1X4411u7TT",
+          "stat_view": 3074898,
+          "stat_danmaku": 7668,
+          "pubdate": "2019-06-23 07:06:13"
+        },
+        {
+          "bvid": "BV1AYAxzqEds",
+          "stat_view": 5483251,
+          "stat_danmaku": 6856,
+          "pubdate": "2026-03-21 12:05:00"
+        },
+        {
+          "bvid": "BV1fk9FBwEnf",
+          "stat_view": 394581,
+          "stat_danmaku": 4770,
+          "pubdate": "2026-04-03 11:00:00"
+        }
+      ]
+    },
+    {
+      "tag": "教程",
+      "count": 148,
+      "high_co": [
+        "人工智能(52.0%)"
+      ],
+      "mid_co": [
+        "AI(41.9%)",
+        "编程(22.3%)"
+      ],
+      "low_co": [
+        "科技(15.5%)",
+        "学习(14.9%)",
+        "科技猎手(12.8%)",
+        "大模型(11.5%)",
+        "计算机(10.8%)",
+        "黑科技(10.8%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1iw411Z7HZ",
+          "stat_view": 12554586,
+          "stat_danmaku": 92938,
+          "pubdate": "2021-06-06 13:07:39"
+        },
+        {
+          "bvid": "BV1hE411t7RN",
+          "stat_view": 7973824,
+          "stat_danmaku": 63503,
+          "pubdate": "2019-11-02 18:13:49"
+        },
+        {
+          "bvid": "BV13D4y1Q7RS",
+          "stat_view": 7320357,
+          "stat_danmaku": 42375,
+          "pubdate": "2020-06-17 18:02:23"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1iw411Z7HZ",
+          "stat_view": 12554586,
+          "stat_danmaku": 92938,
+          "pubdate": "2021-06-06 13:07:39"
+        },
+        {
+          "bvid": "BV1hE411t7RN",
+          "stat_view": 7973824,
+          "stat_danmaku": 63503,
+          "pubdate": "2019-11-02 18:13:49"
+        },
+        {
+          "bvid": "BV1Ci4y1L7ZZ",
+          "stat_view": 3337015,
+          "stat_danmaku": 59409,
+          "pubdate": "2020-11-18 17:20:37"
+        }
+      ]
+    },
+    {
+      "tag": "高能",
+      "count": 144,
+      "high_co": [],
+      "mid_co": [
+        "人工智能(42.4%)",
+        "AI(36.1%)",
+        "搞笑(35.4%)"
+      ],
+      "low_co": [
+        "记录(15.3%)",
+        "科普(14.6%)",
+        "奇葩(13.9%)",
+        "生活记录(13.2%)",
+        "娱乐(11.8%)",
+        "科技(11.1%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1RCteeUEAx",
+          "stat_view": 15461445,
+          "stat_danmaku": 34391,
+          "pubdate": "2024-09-17 17:30:36"
+        },
+        {
+          "bvid": "BV1NX6TBaEnE",
+          "stat_view": 6384599,
+          "stat_danmaku": 2991,
+          "pubdate": "2026-01-27 16:22:53"
+        },
+        {
+          "bvid": "BV1S1A7zxEm4",
+          "stat_view": 6059216,
+          "stat_danmaku": 16238,
+          "pubdate": "2026-03-22 18:30:00"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1RCteeUEAx",
+          "stat_view": 15461445,
+          "stat_danmaku": 34391,
+          "pubdate": "2024-09-17 17:30:36"
+        },
+        {
+          "bvid": "BV1S1A7zxEm4",
+          "stat_view": 6059216,
+          "stat_danmaku": 16238,
+          "pubdate": "2026-03-22 18:30:00"
+        },
+        {
+          "bvid": "BV1Lxt5e8EHe",
+          "stat_view": 780913,
+          "stat_danmaku": 7573,
+          "pubdate": "2024-09-19 18:00:00"
+        }
+      ]
+    },
+    {
+      "tag": "知识",
+      "count": 136,
+      "high_co": [],
+      "mid_co": [
+        "AI(41.9%)",
+        "科普(36.0%)",
+        "科技(31.6%)",
+        "人工智能(30.1%)"
+      ],
+      "low_co": [
+        "学习(18.4%)",
+        "计算机(16.9%)",
+        "科技猎手(11.8%)",
+        "编程(11.8%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1QjhWzmEcC",
+          "stat_view": 20372779,
+          "stat_danmaku": 4054,
+          "pubdate": "2025-08-02 17:00:00"
+        },
+        {
+          "bvid": "BV1qsBiBxE2Y",
+          "stat_view": 7634487,
+          "stat_danmaku": 35501,
+          "pubdate": "2025-12-27 09:00:00"
+        },
+        {
+          "bvid": "BV1Et421E7jk",
+          "stat_view": 7136782,
+          "stat_danmaku": 38319,
+          "pubdate": "2024-04-15 13:20:40"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1Et421E7jk",
+          "stat_view": 7136782,
+          "stat_danmaku": 38319,
+          "pubdate": "2024-04-15 13:20:40"
+        },
+        {
+          "bvid": "BV1qsBiBxE2Y",
+          "stat_view": 7634487,
+          "stat_danmaku": 35501,
+          "pubdate": "2025-12-27 09:00:00"
+        },
+        {
+          "bvid": "BV11s44zNEBa",
+          "stat_view": 668183,
+          "stat_danmaku": 21636,
+          "pubdate": "2025-10-11 16:30:00"
+        }
+      ]
+    },
+    {
+      "tag": "职场",
+      "count": 134,
+      "high_co": [],
+      "mid_co": [
+        "工作(47.8%)",
+        "AI(20.1%)",
+        "失业(20.1%)"
+      ],
+      "low_co": [
+        "人工智能(18.7%)",
+        "就业(17.9%)",
+        "找工作(12.7%)",
+        "生活记录(10.4%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV1QjhWzmEcC",
+          "stat_view": 20372779,
+          "stat_danmaku": 4054,
+          "pubdate": "2025-08-02 17:00:00"
+        },
+        {
+          "bvid": "BV16t421E7Ze",
+          "stat_view": 4609230,
+          "stat_danmaku": 265,
+          "pubdate": "2024-04-10 20:46:51"
+        },
+        {
+          "bvid": "BV1WPPQzjERs",
+          "stat_view": 4453114,
+          "stat_danmaku": 2510,
+          "pubdate": "2026-03-09 18:49:38"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1R2XZBQEio",
+          "stat_view": 2382685,
+          "stat_danmaku": 13727,
+          "pubdate": "2026-04-02 17:00:00"
+        },
+        {
+          "bvid": "BV1xk4y1D7V1",
+          "stat_view": 697192,
+          "stat_danmaku": 7695,
+          "pubdate": "2024-01-17 21:32:00"
+        },
+        {
+          "bvid": "BV1764y1A7rQ",
+          "stat_view": 863006,
+          "stat_danmaku": 5440,
+          "pubdate": "2024-01-19 10:44:27"
+        }
+      ]
+    },
+    {
+      "tag": "科幻",
+      "count": 127,
+      "high_co": [],
+      "mid_co": [
+        "人工智能(32.3%)",
+        "科技(22.0%)"
+      ],
+      "low_co": [
+        "机器人(19.7%)",
+        "AI(17.3%)",
+        "电影解说(11.8%)",
+        "影视剪辑(11.8%)"
+      ],
+      "top3_view": [
+        {
+          "bvid": "BV11mFLziEyP",
+          "stat_view": 18364497,
+          "stat_danmaku": 20461,
+          "pubdate": "2026-02-03 20:31:04"
+        },
+        {
+          "bvid": "BV1cQjEzEEpi",
+          "stat_view": 8262544,
+          "stat_danmaku": 10702,
+          "pubdate": "2025-05-23 15:22:03"
+        },
+        {
+          "bvid": "BV1RW27BXEL8",
+          "stat_view": 7353614,
+          "stat_danmaku": 2282,
+          "pubdate": "2025-12-05 20:35:01"
+        }
+      ],
+      "top3_danmaku": [
+        {
+          "bvid": "BV1UY411q7EW",
+          "stat_view": 2557328,
+          "stat_danmaku": 23722,
+          "pubdate": "2023-02-08 20:45:00"
+        },
+        {
+          "bvid": "BV1Lq421P7Hw",
+          "stat_view": 3075505,
+          "stat_danmaku": 23239,
+          "pubdate": "2024-03-30 19:25:38"
+        },
+        {
+          "bvid": "BV11mFLziEyP",
+          "stat_view": 18364497,
+          "stat_danmaku": 20461,
+          "pubdate": "2026-02-03 20:31:04"
+        }
+      ]
+    }
+  ]
+}

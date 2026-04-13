@@ -1,0 +1,84 @@
+{
+  "人工智能": {
+    "current_quarter_idx": 8,
+    "completed_quarters": [
+      "2024Q1",
+      "2024Q2",
+      "2024Q3",
+      "2024Q4",
+      "2025Q1",
+      "2025Q2",
+      "2025Q3",
+      "2025Q4"
+    ],
+    "total": 828
+  },
+  "科技": {
+    "current_quarter_idx": 8,
+    "completed_quarters": [
+      "2024Q1",
+      "2024Q2",
+      "2024Q3",
+      "2024Q4",
+      "2025Q1",
+      "2025Q2",
+      "2025Q3",
+      "2025Q4"
+    ],
+    "total": 511
+  },
+  "AI焦虑": {
+    "current_quarter_idx": 8,
+    "completed_quarters": [
+      "2024Q1",
+      "2024Q2",
+      "2024Q3",
+      "2024Q4",
+      "2025Q1",
+      "2025Q2",
+      "2025Q3",
+      "2025Q4"
+    ],
+    "total": 2119
+  },
+  "DeepSeek": {
+    "current_quarter_idx": 4,
+    "completed_quarters": [
+      "2024Q1",
+      "2024Q2",
+      "2024Q3",
+      "2024Q4"
+    ],
+    "total": 260
+  },
+  "机器学习": {
+    "current_quarter_idx": 0,
+    "completed_quarters": [],
+    "total": 0
+  },
+  "AI编程": {
+    "current_quarter_idx": 0,
+    "completed_quarters": [],
+    "total": 0
+  },
+  "ChatGPT": {
+    "current_quarter_idx": 0,
+    "completed_quarters": [],
+    "total": 0
+  },
+  "AI绘画": {
+    "current_quarter_idx": 0,
+    "completed_quarters": [],
+    "total": 0
+  },
+  "Sora": {
+    "current_quarter_idx": 0,
+    "completed_quarters": [],
+    "total": 0
+  },
+  "AI": {
+    "current_quarter_idx": 0,
+    "completed_quarters": [],
+    "total": 0
+  }
+}

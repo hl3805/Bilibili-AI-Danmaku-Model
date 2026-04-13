@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "D:\Claude_Code\bilibili-ai-tag-analysis\src\spiders\bilibili_video_crawler.py", line 22, in <module>
+    import aiofiles
+ModuleNotFoundError: No module named 'aiofiles'

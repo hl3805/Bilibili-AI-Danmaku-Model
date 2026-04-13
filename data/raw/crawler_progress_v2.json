@@ -1,0 +1,62 @@
+{
+  "人工智能": {
+    "page": 198,
+    "count": 1000,
+    "fuzzy_keyword_index": 0,
+    "fuzzy_page": 1
+  },
+  "科技": {
+    "page": 20,
+    "count": 656,
+    "fuzzy_keyword_index": 0,
+    "fuzzy_page": 1
+  },
+  "机器学习": {
+    "page": 1,
+    "count": 0,
+    "fuzzy_keyword_index": 0,
+    "fuzzy_page": 1
+  },
+  "AI": {
+    "page": 1,
+    "count": 0,
+    "fuzzy_keyword_index": 0,
+    "fuzzy_page": 1
+  },
+  "ChatGPT": {
+    "page": 1,
+    "count": 0,
+    "fuzzy_keyword_index": 0,
+    "fuzzy_page": 1
+  },
+  "Sora": {
+    "page": 1,
+    "count": 0,
+    "fuzzy_keyword_index": 0,
+    "fuzzy_page": 1
+  },
+  "DeepSeek": {
+    "page": 1,
+    "count": 0,
+    "fuzzy_keyword_index": 0,
+    "fuzzy_page": 1
+  },
+  "AI焦虑": {
+    "page": 1,
+    "count": 0,
+    "fuzzy_keyword_index": 0,
+    "fuzzy_page": 1
+  },
+  "AI绘画": {
+    "page": 1,
+    "count": 0,
+    "fuzzy_keyword_index": 0,
+    "fuzzy_page": 1
+  },
+  "AI编程": {
+    "page": 1,
+    "count": 0,
+    "fuzzy_keyword_index": 0,
+    "fuzzy_page": 1
+  }
+}

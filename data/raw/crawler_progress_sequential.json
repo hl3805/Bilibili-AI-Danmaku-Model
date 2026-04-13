@@ -1,0 +1,56 @@
+{
+  "progress": {
+    "人工智能": {
+      "page": 1,
+      "count": 240,
+      "completed": false
+    },
+    "AI": {
+      "page": 1,
+      "count": 64,
+      "completed": false
+    },
+    "DeepSeek": {
+      "page": 95,
+      "count": 10,
+      "completed": false
+    },
+    "ChatGPT": {
+      "page": 25,
+      "count": 171,
+      "completed": false
+    },
+    "Sora": {
+      "page": 54,
+      "count": 222,
+      "completed": false
+    },
+    "科技": {
+      "page": 40,
+      "count": 539,
+      "completed": true
+    },
+    "机器学习": {
+      "page": 81,
+      "count": 291,
+      "completed": true
+    },
+    "AI焦虑": {
+      "page": 76,
+      "count": 214,
+      "completed": true
+    },
+    "AI绘画": {
+      "page": 42,
+      "count": 130,
+      "completed": false
+    },
+    "AI编程": {
+      "page": 150,
+      "count": 125,
+      "completed": false
+    }
+  },
+  "current_tag_index": 9,
+  "last_update": "2026-04-08 05:43:49"
+}

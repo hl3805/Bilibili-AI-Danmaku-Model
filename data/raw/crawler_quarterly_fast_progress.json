@@ -1,0 +1,52 @@
+{
+  "人工智能": {
+    "current_quarter_idx": 0,
+    "completed_quarters": [],
+    "total": 18
+  },
+  "科技": {
+    "current_quarter_idx": 0,
+    "completed_quarters": [],
+    "total": 0
+  },
+  "机器学习": {
+    "current_quarter_idx": 0,
+    "completed_quarters": [],
+    "total": 0
+  },
+  "AI": {
+    "current_quarter_idx": 0,
+    "completed_quarters": [],
+    "total": 0
+  },
+  "ChatGPT": {
+    "current_quarter_idx": 0,
+    "completed_quarters": [],
+    "total": 0
+  },
+  "Sora": {
+    "current_quarter_idx": 0,
+    "completed_quarters": [],
+    "total": 0
+  },
+  "DeepSeek": {
+    "current_quarter_idx": 0,
+    "completed_quarters": [],
+    "total": 0
+  },
+  "AI焦虑": {
+    "current_quarter_idx": 0,
+    "completed_quarters": [],
+    "total": 0
+  },
+  "AI绘画": {
+    "current_quarter_idx": 0,
+    "completed_quarters": [],
+    "total": 0
+  },
+  "AI编程": {
+    "current_quarter_idx": 0,
+    "completed_quarters": [],
+    "total": 0
+  }
+}

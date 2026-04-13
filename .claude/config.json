@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "tavily": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-tavily"
+      ],
+      "env": {
+        "TAVILY_API_KEY": "to7uAI"
+      }
+    }
+  }
+}
