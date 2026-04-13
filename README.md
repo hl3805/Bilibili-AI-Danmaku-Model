@@ -69,7 +69,7 @@
 
 **配额偏差校正方法**：采用相对表现指标（Relative Performance, RP）进行标准化处理：
 
-$$RP_i = \frac{\text{stat\_view}_i}{\text{median}(\text{stat\_view} \mid \text{search\_tag}_i, \text{quarter}_i)}$$
+$$RP_i = \frac{\text{stat\\_view}_i}{\text{median}(\text{stat\\_view} \mid \text{search\\_tag}_i, \text{quarter}_i)}$$
 
 **技术栈**：FP-Growth算法挖掘频繁标签组合，Louvain算法进行社区检测，Mann-Whitney U检验评估统计显著性。
 
@@ -159,7 +159,9 @@ $$S = \frac{\vec{A} \cdot \vec{B}}{||\vec{A}|| \times ||\vec{B}||}$$
 
 **模型设定**：构建二次回归模型检验非线性关系：
 
-$$\log(\text{stat\_view}) = \beta_0 + \beta_1 S_c + \beta_2 S_c^2 + \beta_3 \log(\text{duration}) + \beta_4 \text{days\_since\_publish} + \sum_{k} \gamma_k \cdot \mathbb{1}_{[\text{search\_tag}=k]} + \epsilon$$
+$$
+\log(\text{stat\\_view}) = \beta_0 + \beta_1 S_c + \beta_2 S_c^2 + \beta_3 \log(\text{duration}) + \beta_4 \text{days\\_since\\_publish} + \sum_{k} \gamma_k \cdot \mathbb{1}_{[\text{search\\_tag}=k]} + \epsilon
+$$
 
 #### 4.2.2 数据分析结果
 
