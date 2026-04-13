@@ -251,7 +251,7 @@ $$\log(\text{stat\_view}) = \beta_0 + \beta_1 S_c + \beta_2 S_c^2 + \beta_3 \log
 
 **语义保留率计算**：采用TF-IDF提取每日Top 50关键词，计算Day 1与Day 3+的集合交集比例：
 
-$$\text{Semantic Retention} = \frac{|W_{day1} \cap W_{day3+}|}{|W_{day1}|}$$
+$$\text{Semantic Retention} = \frac{|W_{\text{day1}} \cap W_{\text{day3+}}|}{|W_{\text{day1}}|}$$
 
 **LDA主题质量诊断**：
 
